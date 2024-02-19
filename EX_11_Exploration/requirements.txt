@@ -1,0 +1,4 @@
+torch
+matplotlib
+gym[classic_control]
+pygame
